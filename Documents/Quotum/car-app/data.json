@@ -1,0 +1,145 @@
+{
+    "Honda": {
+        "Accord" : {
+            "make": "Honda",
+            "model": "Accord",
+            "year": 2018,
+            "trim": "EX-L",
+            "mileage": 73800,
+            "price": 24990,
+            "img": "imgLinkHere",
+
+            "ext-color": "Red",
+            "int-color": "Beige",
+            "trans": "Auto, CVT w/Sport Mode",
+            "engine": "4-Cyl",
+            "city-mpg": 30,
+            "hwy-mpg": 38,
+            "drive-type": "Four Wheel Drive",
+
+            "heated-seats": true,
+            "nav": true,
+            "backup-cam": true,
+            "blutooth": true
+        },
+
+        "Civic" : {
+            "make": "Honda",
+            "model": "Civic",
+            "year": 2015,
+            "trim": "LX",
+            "mileage": 35581,
+            "price": 18590,
+            "img": "imgLinkHere",
+
+            "ext-color": "Dark Red",
+            "int-color": "Gray",
+            "engine": "4-Cyl",
+            "trans": "Auto, CVT",
+            "city-mpg": 30,
+            "hwy-mpg": 39,
+            "drive-type": "FWD",
+
+            "heated-seats": false,
+            "nav": false,
+            "backup-cam": true,
+            "blutooth": true 
+        }
+    },
+
+    "Ford": {
+        "Fusion": {
+            "make": "Ford",
+            "model": "Fusion",
+            "year": 2014,
+            "trim": "S",
+            "mileage": 59016,
+            "price": 15990,
+            "img": "imgLinkHere",
+
+            "ext-color": "Silver",
+            "int-color": "Beige",
+            "engine": "4-Cyl",
+            "trans": "Auto, 6-Spd",
+            "city-mpg": 22,
+            "hwy-mpg": 34,
+            "drive-type": "FWD",
+
+            "heated-seats": false,
+            "nav": false,
+            "backup-cam": false,
+            "blutooth": true
+        }
+    },
+
+    "Hyundai": {
+        "make": "Hyundai",
+        "model": "Elantra",
+        "year": 2018,
+        "trim": "Value Edition",
+        "mileage": 10398,
+        "price": 20590,
+        "img": "imgLinkHere",
+
+        "ext-color": "White",
+        "int-color": "Black",
+        "engine": "4-Cyl",
+        "trans": "Auto, 6-Spd Shiftronic",
+        "city-mpg": 28,
+        "hwy-mpg": 37,
+        "drive-type": "FWD",
+
+        "heated-seats": false,
+        "nav": false,
+        "backup-cam": true,
+        "blutooth": true
+    },
+
+     "Chevy": {
+         "Traverse": {
+            "make": "Chevy",
+            "model": "Traverse",
+            "year": 2017,
+            "trim": "LT",
+            "mileage": 61923,
+            "price": 24590,
+            "img": "imgLinkHere",
+    
+            "ext-color": "Black",
+            "int-color": "Beige",
+            "engine": "V6",
+            "trans": "Auto, 6-Spd",
+            "city-mpg": 15,
+            "hwy-mpg": 22,
+            "drive-type": "FWD",
+    
+            "heated-seats": false,
+            "nav": true,
+            "backup-cam": true,
+            "blutooth": true
+         },
+
+         "Equinox": {
+            "make": "Chevy",
+            "model": "Equinox",
+            "year": 2013,
+            "trim": "LT",
+            "mileage": 42999,
+            "price": 18990,
+            "img": "imgLinkHere",
+    
+            "ext-color": "Black",
+            "int-color": "Gray",
+            "engine": "4-Cyl",
+            "trans": "Auto, 6-Spd Shiftronic",
+            "city-mpg": 22,
+            "hwy-mpg": 32,
+            "drive-type": "FWD",
+    
+            "heated-seats": false,
+            "nav": true,
+            "backup-cam": true,
+            "blutooth": true
+         }
+     }
+}
